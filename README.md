@@ -3,7 +3,7 @@ Hi, this is Sai Teja.
 
 Hosted at : https://f23wb33thatikonda.onrender.com
 
-Category - cities
+Category - Cities
 
 Attributes - city name, City population , City revenue
 
