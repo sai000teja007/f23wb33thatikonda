@@ -5,5 +5,5 @@ Hosted at : https://f23wb33thatikonda.onrender.com
 
 Category - Cities
 
-Attributes - city name, City population , City revenue
+Attributes - city name, city population , city revenue
 
