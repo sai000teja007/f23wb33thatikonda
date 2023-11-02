@@ -1,9 +1,9 @@
 # f23wb33thatikonda
 Hi, this is Sai Teja.
 
-Hosted at : https://f23wb33thatikonda.onrender.com
+***Hosted at*** : https://f23wb33thatikonda.onrender.com
 
-Category - Cities
+***Category*** - **cities**
 
-Attributes - cityname, citypopulation , cityrevenue
+***Attributes*** - **cityname, citypopulation , cityrevenue**
 
